@@ -11,7 +11,7 @@
         <meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible">
         <meta content="Página padrão" name="description">
         <meta content="width=device-width, initial-scale=1" name="viewport">
-        <meta name="description" content="Sua conta foi criada na Hostinger. Comece agora a utilizar seu sistema de hospedagem de sites Hostinger.">
+        <meta name="description" content="FS Desenvolvimento">
         <link rel="shortcut icon" href="/favicon.ico">
         <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet">
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
@@ -244,7 +244,7 @@
             <div class="footer">
                 <div class="row">
                     <div class="text-center" style="margin-bottom: 10px;">
-                        <a href="#" rel="nofollow">*</a> |
+                        <a href="mailto:contato@fs.dev.br" rel="nofollow">Contato</a> |
                         <a href="#" rel="nofollow">Termos de Serviços</a>
                     </div>
                     <div class="copyright text-center">
