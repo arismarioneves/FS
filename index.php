@@ -1,11 +1,6 @@
 <!DOCTYPE html>
 <html lang="pt-BR">
 	<head>
-		<!-- 
-		▓▓▓▓Dev by Mari05liM▓▓▓▓
-		Mari05liM
-		mariodev@outlook.com.br
-		 -->
 		<meta charset="UTF-8">
 		<title>FS</title>
         <meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible">
