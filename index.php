@@ -1,6 +1,11 @@
 <!DOCTYPE html>
 <html lang="pt-BR">
 	<head>
+		<!-- 
+		▓▓▓▓Dev by FS▓▓▓▓
+		FS DEV
+		contato@fs.dev.br
+		-->
 		<meta charset="UTF-8">
 		<title>FS</title>
         <meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible">
