@@ -1,5 +1,4 @@
 <!DOCTYPE html>
-<!-- Webhook -->
 <html lang="pt-BR">
 	<head>
 		<!-- 
@@ -13,7 +12,7 @@
         <meta content="Página padrão" name="description">
         <meta content="width=device-width, initial-scale=1" name="viewport">
         <meta name="description" content="Sua conta foi criada na Hostinger. Comece agora a utilizar seu sistema de hospedagem de sites Hostinger.">
-        <link rel="shortcut icon" href="https://arismario.dev/favicon.ico">
+        <link rel="shortcut icon" href="/favicon.ico">
         <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet">
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
         <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
